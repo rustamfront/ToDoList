@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.btn_add {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    margin: auto;
+    right: 0;
+    width: fit-content;
+    height: fit-content;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    text-transform: uppercase;
+    background-color: #3e3e3e;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+}
